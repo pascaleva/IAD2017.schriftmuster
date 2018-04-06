@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---fonts-matthias": [
-      "path---fonts-matthias-aabc89889c001815e5ee.js",
-      "path---fonts-matthias-aabc89889c001815e5ee.js.map"
+      "path---fonts-matthias-426b8c4ae6091ba186c3.js",
+      "path---fonts-matthias-426b8c4ae6091ba186c3.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-2490c07c7ed852580993.js",
@@ -37,8 +37,8 @@
       "path---fonts-tieu-6dfdb679387cd2f36636.js.map"
     ],
     "path---fonts-marc": [
-      "path---fonts-marc-ca62eb8e83d3c63ffe58.js",
-      "path---fonts-marc-ca62eb8e83d3c63ffe58.js.map"
+      "path---fonts-marc-a05ff4b822de481075ca.js",
+      "path---fonts-marc-a05ff4b822de481075ca.js.map"
     ],
     "component---src-templates-page-index-js": [
       "component---src-templates-page-index-js-8d5cc205a93b8f1cd258.js",
@@ -71,8 +71,8 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---fonts-severin": [
-      "path---fonts-severin-7dbf9afb304407ddd179.js",
-      "path---fonts-severin-7dbf9afb304407ddd179.js.map"
+      "path---fonts-severin-43115c6ba64538b5872b.js",
+      "path---fonts-severin-43115c6ba64538b5872b.js.map"
     ],
     "path---fonts-marius": [
       "path---fonts-marius-9093e305c93e60fb6e5a.js",
