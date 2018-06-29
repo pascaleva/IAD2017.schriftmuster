@@ -42,11 +42,6 @@
   overflow-y: auto;
 
   box-sizing: border-box;
-
-  border-right-color: black;
-  border-right-style: solid;
-  border-right-width: 4px;
-
 }
 
 /* button  */
