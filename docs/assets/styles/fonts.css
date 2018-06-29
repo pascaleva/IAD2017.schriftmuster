@@ -86,3 +86,12 @@
   background-color: #5AE8FF;
 }
 
+.font--ibmplexsans {
+  background-color: #000000;
+}
+
+.font--ibmplexsans:bitter {
+  background-color: #000000;
+}
+
+
