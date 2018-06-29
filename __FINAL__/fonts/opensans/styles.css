@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Rambla:400,400i,700,700i');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
 .customfont {
-  font-family: 'Rambla', sans-serif;
+  font-family: 'Opensans', sans-serif;
 }
 
 .Light {
@@ -24,12 +24,12 @@
 
 }
 
-.Medium {
-  font-weight: 500;
+.Semi-Bold {
+  font-weight: 600;
 }
 
-.MediumItalic {
-  font-weight: 500;
+.Semi-BoldItalic {
+  font-weight: 600;
   font-style: italic;
 
 }
@@ -40,6 +40,16 @@
 
 .BoldItalic {
   font-weight: 700;
+  font-style: italic;
+
+}
+
+.Extra-Bold {
+  font-weight: 800;
+}
+
+.Extra-BoldItalic {
+  font-weight: 800;
   font-style: italic;
 
 }

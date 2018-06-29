@@ -1,1 +1,38 @@
-<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 375 600"><defs><style>.cls-1,.cls-2,.cls-4,.cls-6{isolation:isolate;}.cls-2{font-size:71px;font-family:Faustina-Bold, Faustina;font-weight:700;}.cls-3{letter-spacing:-0.03em;}.cls-4{font-size:32px;font-family:Faustina-Medium, Faustina;}.cls-5{fill:none;}.cls-6{font-size:18px;font-family:Faustina-Regular, Faustina;}.cls-7{letter-spacing:0em;}.cls-8{letter-spacing:0em;}.cls-9{letter-spacing:-0.01em;}.cls-10{letter-spacing:0em;}</style></defs><title>faustina__overview__portrait</title><g id="Page-1"><g id="Group"><g id="Faustina" class="cls-1"><text class="cls-2" transform="translate(30 110)"><tspan class="cls-3">F</tspan><tspan x="36" y="0">austina</tspan></text></g><g id="knowledge-of-art" class="cls-1"><text class="cls-4" transform="translate(30 158)">knowledge of art</text></g><rect id="Rectangle" class="cls-5" width="375" height="600"/><g id="the-process-and-the" class="cls-1"><text class="cls-6" transform="translate(30 215)">the process and the product of planning, </text><text class="cls-6" transform="translate(30 238)">designing, and construc<tspan class="cls-7" x="177.71" y="0">t</tspan><tspan class="cls-8" x="183.97" y="0">ing buildings </tspan></text><text class="cls-6" transform="translate(30 261)">and other physical structure<tspan class="cls-9" x="211.26" y="0">s</tspan><tspan class="cls-10" x="218.52" y="0">.</tspan></text></g></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 375 600" style="enable-background:new 0 0 375 600;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st1{font-family:'Faustina-Bold';}
+	.st2{font-size:71px;}
+	.st3{letter-spacing:-2;}
+	.st4{font-family:'Faustina-Medium';}
+	.st5{font-size:32px;}
+	.st6{fill:none;}
+	.st7{font-family:'Faustina-Regular';}
+	.st8{font-size:18px;}
+</style>
+<title>faustina__overview__portrait</title>
+<g id="Page-1">
+	<g id="Group">
+		<g id="Faustina">
+			<text transform="matrix(1 0 0 1 30 110)" class="st0 st1 st2 st3">F</text>
+			<text transform="matrix(1 0 0 1 66 110)" class="st0 st1 st2">austina</text>
+		</g>
+		<g id="knowledge-of-art">
+			<text transform="matrix(1 0 0 1 30 158)" class="st0 st4 st5">knowledge of art</text>
+		</g>
+		<rect id="Rectangle" y="0" class="st6" width="375" height="600"/>
+		<g id="the-process-and-the">
+			<text transform="matrix(1 0 0 1 30 215)" class="st0 st7 st8">the process and the product of planning,</text>
+			<text transform="matrix(1 0 0 1 30 238)" class="st0 st7 st8">designing, and construc</text>
+			<text transform="matrix(1 0 0 1 207.71 238)" class="st0 st7 st8">t</text>
+			<text transform="matrix(1 0 0 1 213.97 238)" class="st0 st7 st8">ing buildings</text>
+			<text transform="matrix(1 0 0 1 30 261)" class="st0 st7 st8">and other physical structure</text>
+			<text transform="matrix(1 0 0 1 241.26 261)" class="st0 st7 st8">s</text>
+			<text transform="matrix(1 0 0 1 248.52 261)" class="st0 st7 st8">.</text>
+		</g>
+	</g>
+</g>
+</svg>

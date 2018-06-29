@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&subset=latin-ext');
+
+.customfont {
+  font-family: 'Lato', sans-serif;
+}
+
+.Thin {
+  font-weight: 100;
+}
+
+.ThinItalic {
+  font-weight: 100;
+  font-style: italic;
+}
+
+.Light {
+  font-weight: 300;
+}
+
+.LightItalic {
+  font-weight: 300;
+  font-style: italic;
+}
+
+.Regular {
+  font-weight: 400;
+}
+
+.RegularItalic {
+  font-weight: 400;
+  font-style: italic;
+
+}
+
+.Bold {
+  font-weight: 700;
+}
+
+.BoldItalic {
+  font-weight: 700;
+  font-style: italic;
+
+}
+
+.Black {
+  font-weight: 900;
+}
+
+.BlackItalic {
+  font-weight: 900;
+  font-style: italic;
+
+}

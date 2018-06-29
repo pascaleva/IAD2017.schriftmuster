@@ -17,14 +17,45 @@
   color: red;
 }
 
+.font--barlow {
+  background: linear-gradient(to left, #B1E0C7, #035E46);
+}
 
+.font--barlow:hover {
+  background: linear-gradient(to left, #DBEDE4, #03785D);
+}
+
+.font--muktavaani {
+    background: rgb(20,30,48);
+    background: linear-gradient(130deg, rgba(20,30,48,1) 0%, rgba(36,59,85,1) 100%);
+}
+
+.font--muktavaani:hover {
+    background: linear-gradient(130deg, rgba(36,59,85,1) 0%, rgba(20,30,48,1) 100%);
+}
+
+.font--muktavaani a {
+    color: #fff;
+}
+
+.font--muktavaani:hover a {
+    color: #fff;
+}
+
+.font--lato a {
+  color: grey;
+}
+
+.font--lato:hover a {
+  color: black;
+}
 
 .font--lato {
-  background: linear-gradient(to bottom right, red, yellow);
+  background: linear-gradient(to left, #BDEFEB, #E5D0AE);
 }
 
 .font--lato:hover {
-  background: linear-gradient(to bottom right, green, yellow);
+  background: linear-gradient(to left, #9ED8D6, #EFD895);
 }
 
 .font--rambla {
@@ -36,11 +67,11 @@
 }
 
 .font--faustina {
-  background: linear-gradient(to right, #D7CEC9, #304352);
+  background: linear-gradient(to right, #304352, #d7d2cc);
 }
 
 .font--faustina:hover {
-  background: linear-gradient(to right, #D7CEC9, #D7CEC9);
+  background: linear-gradient(to right, #d7d2cc, #304352);
 }
 
 .font--faustina a {
