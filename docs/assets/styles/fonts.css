@@ -82,9 +82,10 @@
   background-color: #FFF857;
 }
 
-.font--ubuntu:bitter {
+.font--bitter:hover {
   background-color: #5AE8FF;
 }
+
 
 .font--ibmplexsans {
   background-color: #000000;
@@ -100,4 +101,24 @@
 
 .font--ibmplexsans:hover a {
   color: white;
+}
+
+.font--raleway {
+  background: linear-gradient(to right, #FC755D, #448AFC);
+}
+
+.font--raleway:hover {
+  background: linear-gradient(to right, #ffb7aa, #a3c6ff);
+}
+
+.font--raleway a {
+  color: black;
+}
+
+.font--cooperhewitt {
+  background: linear-gradient(to right, #ff1a75, #00e6e6);
+}
+
+.font--cooperhewitt:hover {
+  background: linear-gradient(to right, #ff0066, #009999);
 }
