@@ -25,6 +25,10 @@
   background: linear-gradient(to left, #DBEDE4, #03785D);
 }
 
+.font--barlow a {
+    color: #fff;
+}
+
 .font--muktavaani {
     background: rgb(20,30,48);
     background: linear-gradient(130deg, rgba(20,30,48,1) 0%, rgba(36,59,85,1) 100%);
@@ -85,4 +89,3 @@
 .font--ubuntu:bitter {
   background-color: #5AE8FF;
 }
-
