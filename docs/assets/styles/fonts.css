@@ -97,3 +97,12 @@
 .font--raleway a {
   color: black;
 }
+
+.font--cooperhewitt {
+  background: linear-gradient(to right, #ff0066, #009999
+  );
+}
+
+.font--cooperhewitt:hover {
+  background: linear-gradient(to right, #e6005c, #008080);
+}
