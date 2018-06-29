@@ -99,10 +99,9 @@
 }
 
 .font--cooperhewitt {
-  background: linear-gradient(to right, #ff0066, #009999
-  );
+  background: linear-gradient(to right, #ff1a75, #00e6e6);
 }
 
 .font--cooperhewitt:hover {
-  background: linear-gradient(to right, #e6005c, #008080);
+  background: linear-gradient(to right, #ff0066, #009999);
 }
