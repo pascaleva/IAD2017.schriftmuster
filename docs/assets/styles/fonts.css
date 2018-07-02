@@ -1,6 +1,23 @@
 
 /* per student/font */
 
+
+.font--opensans {
+  background-color: black;
+}
+
+.font--opensans:hover {
+  background-color: #4e606e;
+}
+
+.font--opensans a {
+  color: #f5f5f5;
+}
+
+.font--opensans:hover a {
+  color: #c4c4c4;
+}
+
 .font--ubuntu {
   background-color: #e95420;
 }
