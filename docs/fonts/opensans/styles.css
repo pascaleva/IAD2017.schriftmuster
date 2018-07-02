@@ -1,35 +1,35 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:100,100i,300,300i,400,400i,700,700i,900,900i&subset=latin-ext');
 
 .customfont {
   font-family: 'Opensans', sans-serif;
 }
 
 .Light {
-  font-weight: 300;
+  font-weight: 100;
 }
 
 .LightItalic {
-  font-weight: 300;
+  font-weight: 100;
   font-style: italic;
 
 }
 
 .Regular {
-  font-weight: 400;
+  font-weight: 300;
 }
 
 .RegularItalic {
-  font-weight: 400;
+  font-weight: 300;
   font-style: italic;
 
 }
 
 .Semi-Bold {
-  font-weight: 600;
+  font-weight: 400;
 }
 
 .Semi-BoldItalic {
-  font-weight: 600;
+  font-weight: 400;
   font-style: italic;
 
 }
@@ -45,11 +45,11 @@
 }
 
 .Extra-Bold {
-  font-weight: 800;
+  font-weight: 900;
 }
 
 .Extra-BoldItalic {
-  font-weight: 800;
+  font-weight: 900;
   font-style: italic;
 
 }
