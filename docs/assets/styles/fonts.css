@@ -26,12 +26,12 @@
 }
 
 .font--muktavaani {
-    background: rgb(20,30,48);
-    background: linear-gradient(130deg, rgba(20,30,48,1) 0%, rgba(36,59,85,1) 100%);
+    background: #e6824b;
+    background: linear-gradient(130deg, #dc465a 0%, #e6824b 40%, #f0d264 100%);
 }
 
 .font--muktavaani:hover {
-    background: linear-gradient(130deg, rgba(36,59,85,1) 0%, rgba(20,30,48,1) 100%);
+    background: linear-gradient(130deg, #f0d264 0%, #e6824b 60%, #dc465a 100%);
 }
 
 .font--muktavaani a {
