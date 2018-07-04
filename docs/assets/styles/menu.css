@@ -1,3 +1,6 @@
+button:focus {
+  outline: 0;
+}
 
 /*  no scroll when menu is open */
 .nav-open {
@@ -15,24 +18,24 @@
 
 .navigation--inner {
 	position: fixed;
-  width: 23rem;
+  width: 17rem;
   height: 100vh;
 	left: 0;
 	top: 0;
 	z-index: 10;
-  transform: translateX(-20rem);
+  transform: translateX(-14rem);
   transition: transform .2s cubic-bezier(.76, .17, .33, .95)
 }
 
 .nav-open .navigation--inner {
-  transform: translateX(0rem);
+  transform: translateX(0);
 }
 
 
 /* list of menu  */
 .navigation--menu {
   position: absolute;
-  width: 20rem;
+  width: 14rem; /* .navigation--inner - hamburger */
   height: 100%;
 	left: 0;
 	top: 0;
@@ -48,7 +51,7 @@
 .navigation--toggle {
   position: absolute;
   top: 0;
-  left: 20rem;
+  left: 14rem;
 	width: 3rem;
 	height: 3rem;
 
@@ -133,8 +136,7 @@
 
 
 .menu {
-	margin: 0 1.5rem 1.5rem;
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 .menu--list {
 	list-style: none;
@@ -143,15 +145,27 @@
 }
 .menu--list-item {
 	padding: 0;
-	margin: 1rem 0
 }
 .menu--list-item-link {
   color: black;
 	border: 0;
+  display: block;
+  margin: 0;
+  padding-top: 0.4rem;
+  padding-left: 1.5rem;
+  height: 2.6rem;
 }
 .menu--list-item-link--active,
 .menu--list-item-link:focus,
 .menu--list-item-link:hover {
-	color: #5d93ff;
-	border-bottom: 3px solid #5d93ff
+  color: black;
+	background-color: #e5e5e5;
+}
+
+.menu--list-item:first-child .menu--list-item-link,
+.menu--list-item:first-child .menu--list-item-link--active,
+.menu--list-item:first-child .menu--list-item-link:focus,
+.menu--list-item:first-child .menu--list-item-link:hover {
+  color: white;
+	background-color: black;
 }
