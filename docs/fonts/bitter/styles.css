@@ -3,16 +3,16 @@
 .customfont {
   font-family: 'Bitter', serif;
 
-
 .Regular {
-font-weight: 400;
+  font-weight: 400;
 }
 
-.RegularItalic{
-font-weight: 400;
-font-style: italic;
+.RegularItalic {
+  font-weight: 400;
+  font-style: italic;
 }
-.Bold{
-font-weight: 700;
-font-style: bold;
+
+
+.Bold {
+  font-weight: 700;
 }
