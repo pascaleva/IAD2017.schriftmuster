@@ -9,9 +9,10 @@ font-weight: 400;
 }
 
 .RegularItalic{
-font-weight: 400;
-font-style: italic;
+font-weight: 400i;
+font-style: Italic;
 }
 .Bold{
 font-weight: 700;
+font-style: Bold;
 }
