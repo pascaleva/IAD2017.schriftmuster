@@ -4,11 +4,11 @@
   font-family: 'Bitter', serif;
 
 
-.regular 400{
+.regular {
 font-weight: 400;
 }
 
-.regular 400 italic{
+.regular italic{
 font-weight: 400i;
 font-style: italic;
 }
