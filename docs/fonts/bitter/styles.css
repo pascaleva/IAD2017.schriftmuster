@@ -4,15 +4,15 @@
   font-family: 'Bitter', serif;
 
 
-.Regular{
+.regular 400{
 font-weight: 400;
 }
 
-.RegularItalic{
+.regular 400 italic{
 font-weight: 400i;
-font-style: Italic;
+font-style: italic;
 }
-.Bold{
+.bold{
 font-weight: 700;
-font-style: Bold;
+font-style: bold;
 }
