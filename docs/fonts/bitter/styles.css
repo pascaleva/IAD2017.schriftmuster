@@ -2,10 +2,10 @@
 
 .customfont {
   font-family: 'Bitter', serif;
-
-.Regular {
-  font-weight: 400;
-}
+  
+  .Regular {
+    font-weight: 400;
+    font-style: regular;
 
 .RegularItalic {
   font-weight: 400;
