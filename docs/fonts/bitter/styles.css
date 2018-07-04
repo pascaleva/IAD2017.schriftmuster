@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Bitter');
 
+.customfont {
+  font-family: 'Bitter', serif;
+  
+  
 .bitter{
 font-family: 'Bitter', serif;
 }
