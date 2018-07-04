@@ -88,11 +88,15 @@ a:hover {
   color: rgba(0, 0, 0, 0.4);
 }
 
-.font a {
-  color: #545454;
+.grid a {
+  color: #6b6b6b;
 }
 
-.font a:hover {
+.grid a:before {
+    content: "\2192 ";
+}
+
+.grid a:hover {
   color: black;
 }
 
