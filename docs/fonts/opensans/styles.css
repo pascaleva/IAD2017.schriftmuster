@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+.customfont {
+  font-family: 'Opensans', sans-serif;
+}
+
+.Light {
+  font-weight: 300;
+}
+
+.LightItalic {
+  font-weight: 300;
+  font-style: italic;
+
+}
+
+.Regular {
+  font-weight: 400;
+}
+
+.RegularItalic {
+  font-weight: 400;
+  font-style: italic;
+
+}
+
+.Semi-Bold {
+  font-weight: 600;
+}
+
+.Semi-BoldItalic {
+  font-weight: 600;
+  font-style: italic;
+
+}
+
+.Bold {
+  font-weight: 700;
+}
+
+.BoldItalic {
+  font-weight: 700;
+  font-style: italic;
+
+}
+
+.Extra-Bold {
+  font-weight: 800;
+}
+
+.Extra-BoldItalic {
+  font-weight: 800;
+  font-style: italic;
+
+}
