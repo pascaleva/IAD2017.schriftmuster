@@ -1,18 +1,19 @@
-@import url('https://fonts.googleapis.com/css?family=Bitter');
+@import @import url('https://fonts.googleapis.com/css?family=Bitter:400,400i,700');
 
-.bitter{
-font-family: 'Bitter', serif;
+.customfont {
+  font-family: 'Bitter', serif;
+   }
+  
+.Regular {
+    font-weight: 400;
+  }
+
+.RegularItalic {
+  font-style: italic;
+    font-weight: 400i;
 }
 
 
-.Regular{
-font-weight: 4400;
-}
-
-.RegularItalic{
-font-weight: 400 italic;
-font-style: italic;
-}
-.Bold{
-font-weight: 700;
+.Bold {
+  font-weight: 700;
 }

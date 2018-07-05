@@ -1,6 +1,23 @@
 
 /* per student/font */
 
+
+.font--opensans {
+  background-color: black;
+}
+
+.font--opensans:hover {
+  background-color: #4e606e;
+}
+
+.font--opensans a {
+  color: #f5f5f5;
+}
+
+.font--opensans:hover a {
+  color: #c4c4c4;
+}
+
 .font--ubuntu {
   background-color: #e95420;
 }
@@ -25,13 +42,17 @@
   background: linear-gradient(to left, #DBEDE4, #03785D);
 }
 
+.font--barlow a {
+    color: #fff;
+}
+
 .font--muktavaani {
-    background: rgb(20,30,48);
-    background: linear-gradient(130deg, rgba(20,30,48,1) 0%, rgba(36,59,85,1) 100%);
+    background: #e6824b;
+    background: linear-gradient(130deg, #dc465a 0%, #e6824b 40%, #f0d264 100%);
 }
 
 .font--muktavaani:hover {
-    background: linear-gradient(130deg, rgba(36,59,85,1) 0%, rgba(20,30,48,1) 100%);
+    background: linear-gradient(130deg, #f0d264 0%, #e6824b 60%, #dc465a 100%);
 }
 
 .font--muktavaani a {
@@ -85,6 +106,25 @@
 .font--bitter:hover {
   background-color: #5AE8FF;
 }
+<<<<<<< HEAD
+=======
+
+
+.font--ibmplexsans {
+  background-color: black;
+}
+
+.font--ibmplexsans:hover {
+  background-color: #044ada;
+}
+
+.font--ibmplexsans a {
+  color: white;
+}
+
+.font--ibmplexsans:hover a {
+  color: white;
+}
 
 .font--raleway {
   background: linear-gradient(to right, #FC755D, #448AFC);
@@ -97,3 +137,12 @@
 .font--raleway a {
   color: black;
 }
+
+.font--cooperhewitt {
+  background: linear-gradient(to right, #ff1a75, #00e6e6);
+}
+
+.font--cooperhewitt:hover {
+  background: linear-gradient(to right, #ff0066, #009999);
+}
+>>>>>>> 17961977affbe264b359b51627e87b3829f39f16
