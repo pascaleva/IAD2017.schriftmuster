@@ -95,11 +95,12 @@
 }
 
 
-a {
+#link {
   color: black;
-  text-decoration: underline;
+  text-decoration: none;
+  font-style: italic;
 }
 
-a:hover {
-  color: red;
+#link:hover {
+  color: #FC755D;
 }
