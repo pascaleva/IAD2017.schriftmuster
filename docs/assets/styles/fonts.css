@@ -35,14 +35,18 @@
 }
 
 .font--barlow {
-  background: linear-gradient(to left, #B1E0C7, #035E46);
+  background-color: #00EBB6;
 }
 
 .font--barlow:hover {
-  background: linear-gradient(to left, #DBEDE4, #03785D);
+  background-color: #00685E;
 }
 
 .font--barlow a {
+    color: #fff;
+}
+
+.font--barlow:hover a {
     color: #fff;
 }
 
