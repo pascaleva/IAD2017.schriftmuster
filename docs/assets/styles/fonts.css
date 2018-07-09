@@ -84,7 +84,11 @@
 }
 
 .font--rambla:hover {
-  background: linear-gradient(to right, #be6c7a, #cab169);
+  background: linear-gradient(to right, #c97281, #d3b96e);
+}
+
+.name-wolfgang {
+  color: #c16574;
 }
 
 .font--faustina {
