@@ -1,6 +1,23 @@
 
 /* per student/font */
 
+
+.font--opensans {
+  background-color: black;
+}
+
+.font--opensans:hover {
+  background-color: #4e606e;
+}
+
+.font--opensans a {
+  color: #f5f5f5;
+}
+
+.font--opensans:hover a {
+  color: #c4c4c4;
+}
+
 .font--ubuntu {
   background-color: #e95420;
 }
@@ -18,20 +35,28 @@
 }
 
 .font--barlow {
-  background: linear-gradient(to left, #B1E0C7, #035E46);
+  background-color: #00EBB6;
 }
 
 .font--barlow:hover {
-  background: linear-gradient(to left, #DBEDE4, #03785D);
+  background-color: #00685E;
+}
+
+.font--barlow a {
+    color: #fff;
+}
+
+.font--barlow:hover a {
+    color: #fff;
 }
 
 .font--muktavaani {
-    background: rgb(20,30,48);
-    background: linear-gradient(130deg, rgba(20,30,48,1) 0%, rgba(36,59,85,1) 100%);
+    background: #e6824b;
+    background: linear-gradient(130deg, #dc465a 0%, #e6824b 40%, #f0d264 100%);
 }
 
 .font--muktavaani:hover {
-    background: linear-gradient(130deg, rgba(36,59,85,1) 0%, rgba(20,30,48,1) 100%);
+    background: linear-gradient(130deg, #f0d264 0%, #e6824b 60%, #dc465a 100%);
 }
 
 .font--muktavaani a {
@@ -67,11 +92,11 @@
 }
 
 .font--faustina {
-  background: linear-gradient(to right, #304352, #d7d2cc);
+  background: linear-gradient(to right, #283048, #859398);
 }
 
 .font--faustina:hover {
-  background: linear-gradient(to right, #d7d2cc, #304352);
+  background: linear-gradient(to right, #859398, #283048);
 }
 
 .font--faustina a {
@@ -84,6 +109,22 @@
 
 .font--bitter:hover {
   background-color: #5AE8FF;
+}
+
+.font--ibmplexsans {
+  background-color: #000000;
+}
+
+.font--ibmplexsans:hover {
+  background-color: #044ada;
+}
+
+.font--ibmplexsans a {
+  color: white;
+}
+
+.font--ibmplexsans:hover a {
+  color: white;
 }
 
 .font--raleway {
@@ -112,4 +153,12 @@
 
 .font--roboto:hover a {
     color: black;
+}
+
+.font--cooperhewitt {
+  background: linear-gradient(to right, #ff1a75, #00e6e6);
+}
+
+.font--cooperhewitt:hover {
+  background: linear-gradient(to right, #ff0066, #009999);
 }

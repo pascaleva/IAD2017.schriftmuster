@@ -1,7 +1,27 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway:300,300i,400,400i,500,500i,700,700i');
+@import url('https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
 
 .customfont {
   font-family: 'Raleway', sans-serif;
+}
+
+.Thin {
+  font-weight: 100;
+}
+
+.ThinItalic {
+  font-weight: 100;
+  font-style: italic;
+
+}
+
+.ExtraLight {
+  font-weight: 200;
+}
+
+.ExtraLightItalic {
+  font-weight: 200;
+  font-style: italic;
+
 }
 
 .Light {
@@ -34,6 +54,16 @@
 
 }
 
+.SemiBold {
+  font-weight: 600;
+}
+
+.SemiBoldItalic {
+  font-weight: 600;
+  font-style: italic;
+
+}
+
 .Bold {
   font-weight: 700;
 }
@@ -44,12 +74,33 @@
 
 }
 
-
-a {
-  color: black;
-  text-decoration: underline;
+.ExtraBold {
+  font-weight: 800;
 }
 
-a:hover {
-  color: red;
+.ExtraBoldItalic {
+  font-weight: 800;
+  font-style: italic;
+
+}
+
+.Black {
+  font-weight: 900;
+}
+
+.BlackItalic {
+  font-weight: 900;
+  font-style: italic;
+
+}
+
+
+#link {
+  color: black;
+  text-decoration: none;
+  font-style: italic;
+}
+
+#link:hover {
+  color: #FC755D;
 }
